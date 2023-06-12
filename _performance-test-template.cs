@@ -7,7 +7,7 @@ public class Program
 	public static void Main()
 	{
 		Stopwatch sw = new();
-		Solution1 s = new();
+		Solution1 s1 = new();
 		
 		sw.Start();
 		for(int i = 0; i < 100000; i++)
